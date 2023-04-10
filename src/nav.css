@@ -1,0 +1,9 @@
+ul{
+    text-decoration: none;
+    list-style-type: none;
+    color: grey;
+}
+
+.links{
+    display: flex;
+}
